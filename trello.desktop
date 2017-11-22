@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Trello
+Exec=/home/igor/Programas/Trello-linux-0.1.9/Trello
+Terminal=false
+Type=Application
+Icon=/home/igor/Programas/Trello-linux-0.1.9/resources/app/static/Icon.png
